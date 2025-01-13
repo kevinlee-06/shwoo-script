@@ -59,7 +59,7 @@
                 clearInterval(interval);
                 originalAlert(message);
             };
-        }, 10);
+        }, 1000);
     }
 
     function stopLoading() {
