@@ -6,6 +6,8 @@
 // @author       kevinlee-06
 // @match        https://shwoo.gov.taipei/shwoo/newproduct/newproduct00/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.taipei
+// @updateURL    https://github.com/kevinlee-06/shwoo-script/raw/refs/heads/main/info.user.js
+// @downloadURL  https://github.com/kevinlee-06/shwoo-script/raw/refs/heads/main/info.user.js
 // @grant        none
 // ==/UserScript==
 
